@@ -2,9 +2,11 @@ package entities;
 
 public class Triangle {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
-	}
+		public double a;
+		public double b;
+		public double c;
+
+	
 
 }
